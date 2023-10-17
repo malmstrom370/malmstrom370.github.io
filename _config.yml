@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Magnus Malmstöm"
-  avatar           : "profile.png"
+  avatar           : "magma89Liu.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Linköping"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=-ePgF8YAAAAJ&hl"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
