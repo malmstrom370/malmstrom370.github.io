@@ -1,12 +1,12 @@
 ---
-layout: archive
-title: "Publications"
-permalink: /publication/
-author_profile: true
-redirect_from:
-  - /resume
+title: "Paper Title Number 3"
+collection: publications
+permalink: /publication/2015-10-01-paper-title-number-3
+excerpt: ''
+venue: 'Journal 1'
+paperurl: ''
+citation: ''
 ---
-
 - [Extended target tracking utilizing machine-learning software--with applications to animal classification](https://arxiv.org/abs/2310.08316) 
 Magnus Malmström, Anton Kullberg, Isaac Skog, Daniel Axehill, Fredrik Gustafsson, preprint, 2023
 - [Fusion framework and multimodality for the Laplacian approximation of Bayesian neural networks](https://arxiv.org/abs/2310.08315) 
