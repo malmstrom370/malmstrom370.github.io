@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Magnus Malmström / Site Title"
+title                    : "Magnus Malmström"
 title_separator          : "-"
 name                     : &name "Magnus Malmstöm"
 description              : &description "personal description"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Magnus Malmstöm"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Linköping"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=-ePgF8YAAAAJ&hl"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
