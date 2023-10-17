@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Magnus Malmström"
 title_separator          : "-"
 name                     : &name "Magnus Malmstöm"
 description              : &description "personal description"
