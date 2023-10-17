@@ -39,10 +39,10 @@ Magnus Malmström, Licentiate Thesis , 2021
 Magnus Malmström, Isaac Skog, Daniel Axehill, Fredrik Gustafsson
   Proc. of 21st IFAC World Congress, (IFAC), 2020
 
-  - [5G Positioning - A Machine Learning Approach](https://ieeexplore.ieee.org/abstract/document/8970186) 
+- [5G Positioning - A Machine Learning Approach](https://ieeexplore.ieee.org/abstract/document/8970186) 
 Magnus Malmström, Isaac Skog, Sara Modarres Razavi,  Yuxin Zhao,  Fredrik Gunnarsson,
   Proc. of {IEEE} 16th Workshop on Positioning Navig. Commun. , (WPNC) 2019
 
-  - [5G Positioning using Machine Learning](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1223862&dswid=-6860) 
+- [5G Positioning using Machine Learning](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1223862&dswid=-6860) 
 Magnus Malmström, Master Thesis , 2018
 
