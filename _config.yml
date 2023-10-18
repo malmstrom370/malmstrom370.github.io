@@ -309,3 +309,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+# Change the theme
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "contrast" # "default"  "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
