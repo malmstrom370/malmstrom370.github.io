@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-- [Approximative Uncertainty in Neural Network Predictions](https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-198552), Magnus Malmström, Ph.D Thesis , 2021
+- [Approximative Uncertainty in Neural Network Predictions](https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-198552), Magnus Malmström, Ph.D Thesis , 2023
 - [Extended target tracking utilizing machine-learning software--with applications to animal classification](https://arxiv.org/abs/2310.08316) 
 Magnus Malmström, Anton Kullberg, Isaac Skog, Daniel Axehill, Fredrik Gustafsson, preprint, 2023
 - [Fusion framework and multimodality for the Laplacian approximation of Bayesian neural networks](https://arxiv.org/abs/2310.08315) 
