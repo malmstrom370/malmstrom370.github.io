@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Coursework"
-permalink: /my_courses/
+permalink: /my_coursework/
 author_profile: true
 redirect_from:
   - /resume
@@ -27,6 +27,6 @@ redirect_from:
 |  [		Sequential Monte Carlo Methods](https://www.ida.liu.se/divisions/stima/fokurser/smc/#registration)   |    2021   |  6 |
 |  [			Nonlinear Control Systems](https://users.isy.liu.se/en/rt/claal20/NonLinContr/index.html)   |    2021   |  6+3 |
 |--------|--------|---|
-|--------|Total umber of credits |90/90|
+|  |Total umber of credits |90|
 
 
