@@ -3,6 +3,7 @@ title: "Paper Title Number 3"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-4
 excerpt: ''
+date: 2015-10-01
 venue: 'Journal 1'
 paperurl: ''
 citation: ''
