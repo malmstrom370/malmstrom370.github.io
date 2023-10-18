@@ -6,7 +6,7 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "old Teaching"
     url: /teaching/    
     
   # - title: "Portfolio"
@@ -24,5 +24,5 @@ main:
   - title: "Publications"
     url: /my_publications/
     
-  #  - title: "Teaching"
-  #   url: /markdown/
+  - title: "Teaching"
+    url: /markdown/
