@@ -26,5 +26,6 @@ main:
     
   - title: "Teaching"
     url: /my_teaching/
+    
   - title: "Coursework"
-    url: /my_courses/
+    url: /my_coursework/

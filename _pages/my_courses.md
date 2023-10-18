@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Coursework"
-permalink: /my_coursees/
+permalink: /my_courses/
 author_profile: true
 redirect_from:
   - /resume
