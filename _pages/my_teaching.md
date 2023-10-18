@@ -22,10 +22,10 @@ I am/have been involved in the following courses:
 |  [Modeling and Simulation/ Modelling and Learning for Dynamical Systems ](https://isy.gitlab-pages.liu.se/rt/en/courses/TSRT92/)   |    TSRT62/TSRT92   |  2019-2021 | LA  |
 |  [Industrial Control Systems](https://isy.gitlab-pages.liu.se/rt/courses/TSRT07/)   |    TSRT07   |  2019-2021 | LA  |
 
-**Teaching Assistant (TA)**: Teaching at lessons and problem solving sessions
-**Course Assistant (CA)**: Administrative support to the examiner, such as proofreading exams, updating homepage, and scheduling
-**Lab Assistant (LA)**: Teaching at lab sessions
-**Project Supervisor (PS)**: Supervising student projects
+**Teaching Assistant (TA)**: Teaching at lessons and problem solving sessions  
+**Course Assistant (CA)**: Administrative support to the examiner, such as proofreading exams, updating homepage, and scheduling  
+**Lab Assistant (LA)**: Teaching at lab sessions  
+**Project Supervisor (PS)**: Supervising student projects  
 
 During my undergraduate study, I also did some teaching in basic courses in mathematic analysis and linear algebra, as well as lab supervision in courses in automatic control.
 
