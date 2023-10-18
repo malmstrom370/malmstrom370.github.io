@@ -9,9 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
+I am/have been involved in the following courses:
+
 | Course | Code | Year |Role | 
 |--------|--------|---|----|
-|        |        |   |    |
+|  [Automatic Control](https://isy.gitlab-pages.liu.se/rt/courses/TSIU61/)   |    TSIU61    |  2018-2020 |  TA, LA, CA  |
+|  [Engineering Project](https://isy.gitlab-pages.liu.se/rt/courses/TSRT10/)   |    TSRT10    |  2018-2021 |  PS  |
+|  [Digital Signal Processing](https://isy.gitlab-pages.liu.se/rt/en/courses/TSRT78/)   |    TSRT78    |  2018-2020 |  TA, LA, CA  |
+|  [Automatic Control](https://isy.gitlab-pages.liu.se/rt/courses/TSRT12/)   |    TSRT12,TSRT19, TSRT22    |  2018-2021 |  LA  |
+|  [Dynamical Systems and Control](https://isy.gitlab-pages.liu.se/rt/courses/TSRT21/)   |    TSRT21   |  2019-2020 | TA, LA  |
+|  [Industrial Control Systems](https://isy.gitlab-pages.liu.se/rt/courses/TSRT07/)   |    TSRT07   |  2019-2021 | LA  |
+|  [Modeling and Simulation/ Modelling and Learning for Dynamical Systems ](https://isy.gitlab-pages.liu.se/rt/en/courses/TSRT92/)   |    TSRT62/TSRT92   |  2019-2021 | LA  |
+|  [Industrial Control Systems](https://isy.gitlab-pages.liu.se/rt/courses/TSRT07/)   |    TSRT07   |  2019-2021 | LA  |
+
+**Teaching Assistant (TA)**: Teaching at lessons and problem solving sessions
+**Course Assistant (CA)**: Administrative support to the examiner, such as proofreading exams, updating homepage, and scheduling
+**Lab Assistant (LA)**: Teaching at lab sessions
+**Project Supervisor (PS)**: Supervising student projects
+
+During my undergraduate study, I also did some teaching in basic courses in mathematic analysis and linear algebra, as well as lab supervision in courses in automatic control.
 
 Supervised Master's Theses
 ======
