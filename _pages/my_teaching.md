@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+| Course | Code | Year |Role | 
+|--------|--------|---|----|
+|        |        |   |    |
+
 Supervised Master's Theses
 ======
 
