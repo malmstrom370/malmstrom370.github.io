@@ -1,11 +1,11 @@
 ---
-permalink: /publication
-title: ""
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /publication/
-  - /2015-10-01-paper-title-number-4.html
+title: "Paper Title Number 3"
+collection: publications
+permalink: /publication/2015-10-01-paper-title-number-4
+excerpt: ''
+venue: 'Journal 1'
+paperurl: ''
+citation: ''
 ---
 
 - [Extended target tracking utilizing machine-learning software--with applications to animal classification](https://arxiv.org/abs/2310.08316) 
