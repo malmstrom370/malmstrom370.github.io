@@ -49,6 +49,6 @@ Afra Farkhooy, Master's Thesis Linköping University, 2023.
 Adam Gardell, Master's Thesis Linköping University, 2023.
 - [Edge Machine Learning for Wildlife Conservation: A part of the Ngulia project](https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-196981) Richard Gotthard,
 Marcus Broström, Master's Thesis Linköping University, 2023.
-- [Semi-Automatic ImageAnnotation Tool](https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-197191) Miranda Alvenkrona, 
+- [Semi-Automatic ImageAnnotation Tool](https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-197191) Miranda Alvenkrona, Tilda Hylander
 
 
