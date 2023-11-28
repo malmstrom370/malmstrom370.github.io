@@ -16,7 +16,7 @@ Magnus Malmström, Anton Kullberg, Isaac Skog, Daniel Axehill, Fredrik Gustafsso
 Magnus Malmström, Isaac Skog, Daniel Axehill, Fredrik Gustafsson, preprint, 2023.
 - [Uncertainty quantification in neural network classifiers -- a local linear approach](https://arxiv.org/abs/2303.07114) 
 Magnus Malmström, Isaac Skog, Daniel Axehill, Fredrik Gustafsson, preprint, 2023.
-- [On the validity of using the delta method for calculating the uncertainty of the predictions from an overparameterized model](https://arxiv.org/abs/2307.01031) 
+- [On the validity of using the delta method for calculating the uncertainty of the predictions from an overparameterized model](https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-199286) 
 Magnus Malmström, Isaac Skog, Daniel Axehill, Fredrik Gustafsson, Proc. of 22nd IFAC World Congress, (IFAC), 2023
 - [Detection of outliers in classification by using quantified uncertainty in neural networks](https://ieeexplore.ieee.org/abstract/document/9841376) 
 Magnus Malmström, Isaac Skog, Daniel Axehill, Fredrik Gustafsson, Proc. of {IEEE} 25th Int. Conf. on Inf. Fusion (FUSION), 2022
